@@ -9,6 +9,24 @@
         "location": "dungeon-of-grooves:gray/hall-end",
         "processors": []
       }
+    },
+        {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/hall-end-2",
+        "processors": []
+      }
+    },
+        {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/hall-end-3",
+        "processors": []
+      }
     }
   ]
 }

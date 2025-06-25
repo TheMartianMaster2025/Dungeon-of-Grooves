@@ -1,0 +1,1 @@
+setblock 37 107 -275 minecraft:jukebox[has_record=true]{RecordItem:{id:"music_disc_13",count:1}}

@@ -2,7 +2,7 @@
     "fallback": "dungeon-of-grooves:gray/hall-end",
     "elements": [
     {
-        "weight": 1,
+        "weight": 2,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
