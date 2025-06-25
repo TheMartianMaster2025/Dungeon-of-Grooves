@@ -1,0 +1,17 @@
+3 phase plan:
+PoC
+MvP
+Fancy Mode
+
+PoC 
+    Generation (gray)
+    Abilities (one class)
+    Enemies and bosses
+MvP 
+    Generation (Get in elevator, explore, turn off all records, get back in, repeat)
+    Nine Instruments (classes)
+    Fun and varied bosses
+Fancy mode
+    Ending (final floor)
+    Custom sounds/textures for everything 
+        Including mobs

@@ -1,0 +1,104 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "text": "Play Song"
+  },
+  "inputs": [],
+  "columns": 7,
+  "actions": [
+    {
+      "label": "A",
+      "tooltip": {
+        "text": "Play A",
+        "click_event": {
+          "action": "run_command",
+          "command": "say hi"
+        }
+      },
+      "width": 20
+    },
+    {
+      "label": "B",
+      "tooltip": {
+        "text": "Play B",
+        "click_event": {
+          "action": "run_command",
+          "command": "trigger abTrigger set 2"
+        }
+      },
+      "width": 20
+    },
+    {
+      "label": "C",
+      "tooltip": {
+        "text": "Play C",
+        "click_event": {
+          "action": "run_command",
+          "command": "trigger abTrigger set 3"
+        }
+      },
+      "width": 20
+    },
+    {
+      "label": "D",
+      "tooltip": {
+        "text": "Play D",
+        "click_event": {
+          "action": "run_command",
+          "command": "trigger abTrigger set 4"
+        }
+      },
+      "width": 20
+    },
+    {
+      "label": "E",
+      "tooltip": {
+        "text": "Play E",
+        "click_event": {
+          "action": "run_command",
+          "command": "trigger abTrigger set 5"
+        }
+      },
+      "width": 20
+    },
+    {
+      "label": "F",
+      "tooltip": {
+        "text": "Play F",
+        "click_event": {
+          "action": "run_command",
+          "command": "trigger abTrigger set 6"
+        }
+      },
+      "width": 20
+    },
+    {
+      "label": "G",
+      "tooltip": {
+        "text": "Play G",
+        "click_event": {
+          "action": "run_command",
+          "command": "trigger abTrigger set 7"
+        }
+      },
+      "width": 20
+    },
+    {
+      "label": {
+        "score": {
+          "objective": "abBuffer",
+          "name": "@s"
+        }
+      }
+    },
+    {
+      "label": {
+        "text": "Reset",
+        "click_event": {
+          "action": "run_command",
+          "command": "trigger abTrigger set 10"
+        }
+      }
+    }
+  ]
+}
