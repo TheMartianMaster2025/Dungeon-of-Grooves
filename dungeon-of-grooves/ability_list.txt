@@ -1,0 +1,47 @@
+moves [separated by complexity/power-level]
+
+Three Notes:
+
+Basic Arpeggio (A-C-E):
+    GW: Zap one guy
+
+Teleport Spell (D-G-C):
+    GW: Teleport enemies back 
+
+
+Four notes:
+
+(F-G-A-D) Fire Spell:
+    GW: Fireball
+
+(D-G-B-D) Ritardando
+    GW: Slow and damage
+
+(E-F-G-F) Reveal Spell:
+    GW: Reveal bosses?
+
+Five Notes:
+
+(C-B-D-C-G) Summon Familiar:
+    GW: Summon a Creeper (exploding amp)
+
+Six Notes:
+(G-G-C-E-F-F) Defensive Lick
+    GW: Resistance and Slow
+
+    GW: Arc of Explosions
+
+Seven Notes:
+
+(B-A-F-B-A-F-B) Song of Healing
+    GW: slow self-regen
+
+
+Eight Notes:
+
+(A-C-B-A-E-C-B-A) Thunderstruck:
+    GW: Blast lightning where you're looking
+
+Song of Death:
+    GW: kill the one mob nearest
+
