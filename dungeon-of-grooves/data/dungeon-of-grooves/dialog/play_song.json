@@ -4,100 +4,105 @@
     "text": "Play Song"
   },
   "inputs": [],
+  "pause": false,
+  "after_action": "none",
+  "exit_action": {
+    "label": "Close",
+    "action": {
+      "type": "run_command",
+      "command": "trigger abTrigger set -1"
+    }
+  },
   "columns": 7,
   "actions": [
     {
       "label": "A",
       "tooltip": {
-        "text": "Play A",
-        "click_event": {
-          "action": "run_command",
-          "command": "say hi"
-        }
+        "text": "Play A"
       },
-      "width": 20
-    },
-    {
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 1"
+      }
+    },{
       "label": "B",
       "tooltip": {
-        "text": "Play B",
-        "click_event": {
-          "action": "run_command",
-          "command": "trigger abTrigger set 2"
-        }
+        "text": "Play B"
       },
-      "width": 20
-    },
-    {
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 2"
+      }
+    },{
       "label": "C",
       "tooltip": {
-        "text": "Play C",
-        "click_event": {
-          "action": "run_command",
-          "command": "trigger abTrigger set 3"
-        }
+        "text": "Play C"
       },
-      "width": 20
-    },
-    {
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 3"
+      }
+    },{
       "label": "D",
       "tooltip": {
-        "text": "Play D",
-        "click_event": {
-          "action": "run_command",
-          "command": "trigger abTrigger set 4"
-        }
+        "text": "Play D"
       },
-      "width": 20
-    },
-    {
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 4"
+      }
+    },{
       "label": "E",
       "tooltip": {
-        "text": "Play E",
-        "click_event": {
-          "action": "run_command",
-          "command": "trigger abTrigger set 5"
-        }
+        "text": "Play E"
       },
-      "width": 20
-    },
-    {
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 5"
+      }
+    },{
       "label": "F",
       "tooltip": {
-        "text": "Play F",
-        "click_event": {
-          "action": "run_command",
-          "command": "trigger abTrigger set 6"
-        }
+        "text": "Play F"
       },
-      "width": 20
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 6"
+      }
     },
     {
       "label": "G",
       "tooltip": {
-        "text": "Play G",
-        "click_event": {
-          "action": "run_command",
-          "command": "trigger abTrigger set 7"
-        }
+        "text": "Play G"
       },
-      "width": 20
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 7"
+      }
     },
     {
       "label": {
         "score": {
           "objective": "abBuffer",
           "name": "@s"
-        }
+        },
+        "type": "score"
       }
     },
     {
       "label": {
-        "text": "Reset",
-        "click_event": {
-          "action": "run_command",
-          "command": "trigger abTrigger set 10"
-        }
+        "text": "Reset"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 10"
       }
     }
   ]

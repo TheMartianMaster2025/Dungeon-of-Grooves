@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "use_goathorn": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "components": {
+            "minecraft:custom_data": {
+              "instrument": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [],
+  "rewards": {
+    "function": "dungeon-of-grooves:abilities/play-horn"
+  },
+  "sends_telemetry_event": true
+}
