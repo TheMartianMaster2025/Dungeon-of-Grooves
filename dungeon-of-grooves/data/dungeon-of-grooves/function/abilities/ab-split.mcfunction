@@ -2,6 +2,6 @@ tellraw @a [{selector:"@s"},{text:" casts "},{score:{name:"*",objective:"abBuffe
 
 execute if score @s abBuffer matches 135 run function dungeon-of-grooves:abilities/class-splits/basic-arp
 
-
-
+scoreboard players reset @s abBuffer
+scoreboard players reset @s abTrigger
 scoreboard players enable @s abTrigger

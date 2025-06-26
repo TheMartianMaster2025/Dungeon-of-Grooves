@@ -1,6 +1,10 @@
 scoreboard objectives add cleared dummy "Floor Cleared"
 scoreboard objectives add elevator dummy "Elevator Trigger"
 
+gamerule commandBlockOutput false
+gamerule mobGriefing false
+gamerule naturalRegeneration false
+gamerule keepInventory true
 
 scoreboard objectives add abTrigger trigger "Ability Trigger"
 scoreboard objectives add abBuffer dummy "Ability Select Buffer"
