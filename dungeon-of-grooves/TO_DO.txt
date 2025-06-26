@@ -1,4 +1,4 @@
-3 phase plan:
+---3 phase plan---
 PoC
 MvP
 Fancy Mode
@@ -15,3 +15,8 @@ Fancy mode
     Ending (final floor)
     Custom sounds/textures for everything 
         Including mobs
+
+
+---IMMEDIATE GOALS---
+Wire up guitar wizard functions
+GW abilities make them work
