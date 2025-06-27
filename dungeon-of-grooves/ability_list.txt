@@ -43,6 +43,6 @@ Eight Notes:
 (A-C-B-A-E-C-B-A) Thunderstruck:
     GW: Blast lightning where you're looking
 
-Song of Death:
+(G-G-F-G-E-E-C-C) Song of Death:
     GW: kill the one mob nearest
 

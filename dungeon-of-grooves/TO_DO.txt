@@ -18,5 +18,4 @@ Fancy mode
 
 
 ---IMMEDIATE GOALS---
-Wire up guitar wizard functions
 GW abilities make them work

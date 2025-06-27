@@ -6,3 +6,4 @@ execute rotated as @s anchored eyes positioned ^ ^ ^4 positioned as @e[distance=
 execute as @e[tag=zap] run damage @s 3.0 magic by @p from @p
 execute positioned as @e[tag=zap] run particle electric_spark ~ ~ ~ 0.1 3 0.1 0.9 20
 execute positioned as @e[tag=zap] run playsound entity.lightning_bolt.thunder player @a ~ ~ ~ 0.3 1.0 0
+tag @e[tag=zap] remove zap
