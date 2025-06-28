@@ -8,7 +8,6 @@ Basic Arpeggio (A-C-E):
 Teleport Spell (D-G-C):
     GW: Teleport enemies back 
 
-
 Four notes:
 
 (F-G-A-D) Fire Spell:
@@ -36,7 +35,6 @@ Seven Notes:
 
 (B-A-F-B-A-F-B) Song of Healing
     GW: slow self-regen
-
 
 Eight Notes:
 

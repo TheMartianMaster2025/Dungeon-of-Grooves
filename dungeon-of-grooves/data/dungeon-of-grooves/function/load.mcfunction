@@ -1,10 +1,13 @@
 scoreboard objectives add cleared dummy "Floor Cleared"
 scoreboard objectives add elevator dummy "Elevator Trigger"
+scoreboard objectives add floors dummy "Floors Cleared"
 
 gamerule commandBlockOutput false
 gamerule mobGriefing false
 gamerule naturalRegeneration false
 gamerule keepInventory true
+gamerule doMobSpawning false
+
 
 scoreboard objectives add team dummy
 team add friendly
