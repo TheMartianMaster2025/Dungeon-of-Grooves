@@ -7,7 +7,9 @@ gamerule mobGriefing false
 gamerule naturalRegeneration false
 gamerule keepInventory true
 gamerule doMobSpawning false
-
+gamerule sendCommandFeedback false
+gamerule doFireTick false
+gamerule spawnRadius 0
 
 scoreboard objectives add team dummy
 team add friendly

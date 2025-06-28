@@ -20,4 +20,6 @@ execute if score @s abBuffer matches 77675533 run function dungeon-of-grooves:ab
 scoreboard players reset @s abBuffer
 scoreboard players reset @s abTrigger
 scoreboard players enable @s abTrigger
-advancement revoke @s only dungeon-of-grooves:play-instrument
+
+#advancement revoke @s only dungeon-of-grooves:play-instrument
+schedule function dungeon-of-grooves:utility/revoke-instrument 3s
