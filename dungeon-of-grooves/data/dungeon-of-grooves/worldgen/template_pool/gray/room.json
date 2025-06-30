@@ -18,6 +18,24 @@
         "location": "dungeon-of-grooves:gray/room-ball",
         "processors": []
         }
+    },
+    {
+        "weight": 4,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/room2",
+        "processors": []
+        }
+    },
+    {
+        "weight": 3,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/room-conf",
+        "processors": []
+        }
     }
     ]
 }
