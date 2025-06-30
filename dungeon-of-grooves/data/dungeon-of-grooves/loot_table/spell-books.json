@@ -1,0 +1,231 @@
+{
+"type": "minecraft:entity",
+"pools": [
+    {
+    "rolls": 1,
+    "entries": [
+        {
+        "weight": 9,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Fire Spell"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(F-G-A-D)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 10,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Basic Arpeggio"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(A-C-E)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 5,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Teleport Spell"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(D-G-C)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 3,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Ritardando"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(D-G-B-D)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 9,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Reveal Spell"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(E-F-G-F)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 3,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Summon Familiar"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(G-G-C-E-F-F)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 6,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Oompahpah"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(C-E-E-C-E-E)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 8,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Song of Healing"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(B-A-F-B-A-F-B)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 1,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Thunderstruck"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "[GUITAR WIZARD ONLY]\n(A-C-B-A-E-C-B-A)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        },
+        {
+        "weight": 1,
+        "type": "minecraft:item",
+        "name": "minecraft:written_book",
+        "functions": [
+            {
+            "function": "minecraft:set_name",
+            "name": {
+                "text": "Song of Death"
+            }
+            },
+            {
+            "function": "minecraft:set_written_book_pages",
+            "pages": [
+                {
+                    "text": "(G-G-F-G-E-E-C-C)"
+                }
+            ],
+            "mode": "append"
+            }
+        ]
+        }
+    ]
+    }
+],
+"functions": []
+}
