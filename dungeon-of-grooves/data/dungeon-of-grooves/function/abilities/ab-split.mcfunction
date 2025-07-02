@@ -1,4 +1,4 @@
-tellraw @a [{selector:"@s"},{text:" casts "},{score:{name:"*",objective:"abBuffer"}},{text:"!!!"}]
+tellraw @a [{selector:"@s"},{text:" casts "},{score:{name:"@s",objective:"abBuffer"}},{text:"!!!"}]
 #3
 execute if score @s abBuffer matches 135 run function dungeon-of-grooves:abilities/class-splits/basic-arp
 execute if score @s abBuffer matches 473 run function dungeon-of-grooves:abilities/class-splits/teleport

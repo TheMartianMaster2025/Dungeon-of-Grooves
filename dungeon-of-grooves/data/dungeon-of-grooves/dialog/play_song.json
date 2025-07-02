@@ -13,7 +13,7 @@
       "command": "trigger abTrigger set -1"
     }
   },
-  "columns": 7,
+  "columns": 10,
   "actions": [
     {
       "label": "A",
@@ -25,7 +25,8 @@
         "type": "run_command",
         "command": "trigger abTrigger set 1"
       }
-    },{
+    },
+    {
       "label": "B",
       "tooltip": {
         "text": "Play B"
@@ -35,7 +36,8 @@
         "type": "run_command",
         "command": "trigger abTrigger set 2"
       }
-    },{
+    },
+    {
       "label": "C",
       "tooltip": {
         "text": "Play C"
@@ -45,7 +47,8 @@
         "type": "run_command",
         "command": "trigger abTrigger set 3"
       }
-    },{
+    },
+    {
       "label": "D",
       "tooltip": {
         "text": "Play D"
@@ -55,7 +58,8 @@
         "type": "run_command",
         "command": "trigger abTrigger set 4"
       }
-    },{
+    },
+    {
       "label": "E",
       "tooltip": {
         "text": "Play E"
@@ -65,7 +69,8 @@
         "type": "run_command",
         "command": "trigger abTrigger set 5"
       }
-    },{
+    },
+    {
       "label": "F",
       "tooltip": {
         "text": "Play F"
@@ -85,15 +90,6 @@
       "action": {
         "type": "run_command",
         "command": "trigger abTrigger set 7"
-      }
-    },
-    {
-      "label": {
-        "score": {
-          "objective": "abBuffer",
-          "name": "@s"
-        },
-        "type": "score"
       }
     },
     {
