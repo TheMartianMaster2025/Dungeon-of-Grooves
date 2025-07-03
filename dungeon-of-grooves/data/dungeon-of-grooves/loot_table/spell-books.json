@@ -41,7 +41,7 @@
             "function": "minecraft:set_written_book_pages",
             "pages": [
                 {
-                    "text": "(A-C-E)"
+                    "text": "(C-E-G)"
                 }
             ],
             "mode": "append"

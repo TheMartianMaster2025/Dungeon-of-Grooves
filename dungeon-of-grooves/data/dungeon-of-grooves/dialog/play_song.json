@@ -16,28 +16,6 @@
   "columns": 10,
   "actions": [
     {
-      "label": "A",
-      "tooltip": {
-        "text": "Play A"
-      },
-      "width": 20,
-      "action": {
-        "type": "run_command",
-        "command": "trigger abTrigger set 1"
-      }
-    },
-    {
-      "label": "B",
-      "tooltip": {
-        "text": "Play B"
-      },
-      "width": 20,
-      "action": {
-        "type": "run_command",
-        "command": "trigger abTrigger set 2"
-      }
-    },
-    {
       "label": "C",
       "tooltip": {
         "text": "Play C"
@@ -90,6 +68,28 @@
       "action": {
         "type": "run_command",
         "command": "trigger abTrigger set 7"
+      }
+    },
+    {
+      "label": "A",
+      "tooltip": {
+        "text": "Play A"
+      },
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 1"
+      }
+    },
+    {
+      "label": "B",
+      "tooltip": {
+        "text": "Play B"
+      },
+      "width": 20,
+      "action": {
+        "type": "run_command",
+        "command": "trigger abTrigger set 2"
       }
     },
     {

@@ -1,0 +1,11 @@
+1 Piccolo Swashbuckler
+2 Violin Bowman
+3 Guitar Wizard
+4 Bassdrum Berserker
+5 Accordion Deadeye
+6 Tuba Sorcerer
+7 Saxophone Swordsman
+8 Lute Archer
+9 Cello Cleric
+ 
+

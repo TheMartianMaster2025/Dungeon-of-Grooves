@@ -1,6 +1,6 @@
 tellraw @a [{selector:"@s"},{text:" casts "},{score:{name:"@s",objective:"abBuffer"}},{text:"!!!"}]
 #3
-execute if score @s abBuffer matches 135 run function dungeon-of-grooves:abilities/class-splits/basic-arp
+execute if score @s abBuffer matches 357 run function dungeon-of-grooves:abilities/class-splits/basic-arp
 execute if score @s abBuffer matches 473 run function dungeon-of-grooves:abilities/class-splits/teleport
 #4
 execute if score @s abBuffer matches 4724 run function dungeon-of-grooves:abilities/class-splits/ritardando
@@ -14,7 +14,7 @@ execute if score @s abBuffer matches 355355 run function dungeon-of-grooves:abil
 #7
 execute if score @s abBuffer matches 2162162 run function dungeon-of-grooves:abilities/class-splits/heal
 #8
-execute if score @s abBuffer matches 13215321 if score @s class matches 1 run function dungeon-of-grooves:abilities/guitar-wizard/thunderstruck
+execute if score @s abBuffer matches 13215321 if score @s class matches 3 run function dungeon-of-grooves:abilities/guitar-wizard/thunderstruck
 execute if score @s abBuffer matches 77675533 run function dungeon-of-grooves:abilities/class-splits/death
 
 scoreboard players reset @s abBuffer

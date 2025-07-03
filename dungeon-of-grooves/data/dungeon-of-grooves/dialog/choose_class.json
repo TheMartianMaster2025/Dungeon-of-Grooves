@@ -1,0 +1,123 @@
+{
+"type": "minecraft:multi_action",
+"title": {
+    "text": "Select a Class",
+    "shadow_color": 0,
+    "bold": true
+},
+    "inputs": [],
+    "can_close_with_escape": false,
+    "pause": false,
+    "after_action": "close",
+    "columns": 3,
+    "actions": [
+    {
+    "label": {
+        "text": "Piccolo Swashbuckler",
+        "color": "#ff0000"
+    },
+    "tooltip": "Offensive Melee",
+    "width": 110,
+    "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger classTrigger set 1"
+    }
+    },
+    {
+    "label": {
+        "text": "Violin Bowman",
+        "color": "#352eff"
+    },
+    "tooltip": "Offensive Ranger",
+    "width": 110,
+    "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 2"
+    }
+    },
+    {
+    "label": {
+        "text": "Guitar Wizard",
+        "color": "#ffff00"
+    },
+    "tooltip": "Offensive Mage",
+    "width": 110,
+    "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 3"
+    }
+    },
+    {
+    "label": {
+        "text": "Bass drum Berserker",
+        "color": "#b31111"
+    },
+    "tooltip": "Defensive Melee",
+    "width": 110,
+    "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 4"
+    }
+    },
+    {
+    "label": {
+        "text": "Accordion Deadeye",
+        "color": "#020366"
+    },
+    "tooltip": "Defensive Ranger",
+    "width": 110,
+    "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 5"
+    }
+    },
+    {
+    "label": {
+        "text": "Tuba Sorcerer",
+        "color": "#ada650"
+    },
+    "tooltip": "Defensive Mage",
+    "width": 110,
+    "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 6"
+    }
+    },
+    {
+    "label": {
+        "text": "Saxophone Swordsman",
+        "color": "#f88f81"
+    },
+    "tooltip": "Support Melee",
+        "width": 110,
+        "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 7"
+    }
+    },
+    {
+    "label": {
+        "text": "Lute Archer",
+        "color": "#d213d7"
+    },
+        "tooltip": "Support Ranger",
+        "width": 110,
+    "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 8"
+    }
+    },
+    {
+    "label": {
+        "text": "Cello Cleric",
+        "color": "#d0d88a"
+        },
+        "tooltip": "Support Mage",
+        "width": 110,
+        "action": {
+        "type": "run_command",
+        "command": "trigger classTrigger set 9"
+    }
+    }
+]
+}

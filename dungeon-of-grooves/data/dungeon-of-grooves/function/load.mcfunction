@@ -17,8 +17,8 @@ team add enemy
 
 scoreboard objectives add abTrigger trigger "Ability Trigger"
 scoreboard objectives add abBuffer dummy "Ability Select Buffer"
+scoreboard objectives add classTrigger trigger "Class Trigger"
 scoreboard objectives add class dummy "Class"
-
 
 
 scoreboard objectives add cd1 dummy "Constant 1"
