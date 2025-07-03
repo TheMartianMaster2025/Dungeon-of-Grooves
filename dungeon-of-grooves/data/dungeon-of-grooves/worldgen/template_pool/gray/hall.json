@@ -27,6 +27,33 @@
         "location": "dungeon-of-grooves:gray/hall2",
         "processors": []
         }   
+    },
+    {
+        "weight": 3,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/hall3",
+        "processors": []
+        }   
+    },
+    {
+        "weight": 3,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/hall4",
+        "processors": []
+        }   
+    },
+    {
+        "weight": 3,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/hall5",
+        "processors": []
+        }   
     }
     ]
 }

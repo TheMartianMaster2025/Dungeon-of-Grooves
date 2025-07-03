@@ -1,8 +1,8 @@
 {
-    "fallback": "empty",
+    "fallback": "dungeon-of-grooves:gray/room-end",
     "elements": [
     {
-        "weight": 5,
+        "weight": 10,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -11,7 +11,7 @@
         }
     },
     {
-        "weight": 2,
+        "weight": 3,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -20,7 +20,7 @@
         }
     },
     {
-        "weight": 4,
+        "weight": 1,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -34,6 +34,33 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
         "location": "dungeon-of-grooves:gray/room-conf",
+        "processors": []
+        }
+    },
+    {
+        "weight": 6,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/room3",
+        "processors": []
+        }
+    },
+    {
+        "weight": 4,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/room4",
+        "processors": []
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:gray/room5",
         "processors": []
         }
     }
