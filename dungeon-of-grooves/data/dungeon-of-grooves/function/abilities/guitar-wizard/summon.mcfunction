@@ -4,4 +4,3 @@ particle smoke ~ ~ ~ 0.1 3 0.1 1.5 30
 playsound entity.cat.hiss player @a ~ ~ ~ 2.9 1.0 0
 damage @n[tag=newSummon] 0 arrow by @n[scores={team=9}]
 tag @e remove newSummon
-
