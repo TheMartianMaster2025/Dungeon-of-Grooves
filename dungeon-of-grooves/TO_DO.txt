@@ -18,4 +18,6 @@ Fancy mode
 
 
 ---IMMEDIATE GOALS---
-Loot Tables real
+Loot Chest Glow
+Bug/balance test Piccolo Swashbuckler
+Make Yellow good (turn down towers and stairs, fix tower stairs)

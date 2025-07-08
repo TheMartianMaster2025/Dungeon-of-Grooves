@@ -1,0 +1,39 @@
+{
+  "fallback": "empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:yellow/hall-end1",
+        "processors": []
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:yellow/hall-end2",
+        "processors": []
+      }
+    },    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:yellow/hall-end3",
+        "processors": []
+      }
+    },    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:yellow/hall-end4",
+        "processors": []
+      }
+    }
+  ]
+}
