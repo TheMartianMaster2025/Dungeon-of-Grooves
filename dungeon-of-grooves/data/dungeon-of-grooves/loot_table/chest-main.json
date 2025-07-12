@@ -8,6 +8,9 @@
         "weight": 1},
             {"type": "item","name": "cobblestone",
         "functions": [{"function": "set_count","count": {"max": 4,"min": 1}}],
+        "weight": 1},            
+        {"type": "item","name": "bread",
+        "functions": [{"function": "set_count","count": {"max": 5,"min": 1}}],
         "weight": 1},
             {"type": "loot_table","value": "dungeon-of-grooves:spell-books","weight": 3}
         ],"rolls": 3}]

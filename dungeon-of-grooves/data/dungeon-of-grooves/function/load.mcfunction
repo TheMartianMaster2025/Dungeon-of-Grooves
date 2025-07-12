@@ -4,7 +4,7 @@ scoreboard objectives add floors dummy "Floors Cleared"
 
 gamerule commandBlockOutput false
 gamerule mobGriefing false
-gamerule naturalRegeneration false
+gamerule naturalRegeneration true
 gamerule keepInventory true
 gamerule doMobSpawning false
 gamerule sendCommandFeedback false
