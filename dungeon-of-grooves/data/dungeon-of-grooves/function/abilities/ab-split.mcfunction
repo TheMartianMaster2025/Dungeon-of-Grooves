@@ -1,5 +1,7 @@
 tellraw @a [{selector:"@s"},{text:" casts "},{score:{name:"@s",objective:"abBuffer"}},{text:"!!!"}]
 
+function dungeon-of-grooves:stats/store-stats
+
 $data modify storage $(id):song list set value []
 #3
 execute if score @s abBuffer matches 357 run function dungeon-of-grooves:abilities/class-splits/basic-arp

@@ -74,7 +74,7 @@
     {
     "label": {
         "text": "Tuba Sorcerer",
-        "color": "#ada650"
+        "color": "#9b8e00"
     },
     "tooltip": "Defensive Mage",
     "width": 110,
@@ -110,7 +110,7 @@
     {
     "label": {
         "text": "Cello Cleric",
-        "color": "#d0d88a"
+        "color": "#6a8800"
         },
         "tooltip": "Support Mage",
         "width": 110,
