@@ -1,4 +1,6 @@
 tellraw @a [{selector:"@s"},{text:" casts "},{score:{name:"@s",objective:"abBuffer"}},{text:"!!!"}]
+
+$data modify storage $(id):song list set value []
 #3
 execute if score @s abBuffer matches 357 run function dungeon-of-grooves:abilities/class-splits/basic-arp
 execute if score @s abBuffer matches 473 run function dungeon-of-grooves:abilities/class-splits/teleport
@@ -21,5 +23,7 @@ scoreboard players reset @s abBuffer
 scoreboard players reset @s abTrigger
 scoreboard players enable @s abTrigger
 
+
+
 #advancement revoke @s only dungeon-of-grooves:play-instrument
-schedule function dungeon-of-grooves:utility/revoke-instrument 3s
+#schedule function dungeon-of-grooves:utility/revoke-instrument 3s
