@@ -2,7 +2,7 @@
     "fallback": "dungeon-of-grooves:yellow/room-end",
     "elements": [
     {
-        "weight": 50,
+        "weight": 9,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -11,7 +11,7 @@
         }
     },
         {
-        "weight": 100,
+        "weight": 1,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -20,7 +20,7 @@
         }
     },
         {
-        "weight": 100,
+        "weight": 10,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -29,7 +29,7 @@
         }
     },
         {
-        "weight": 100,
+        "weight": 10,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -38,7 +38,7 @@
         }
     },
         {
-        "weight": 100,
+        "weight": 8,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -47,7 +47,7 @@
         }
     },
         {
-        "weight": 100,
+        "weight": 5,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -56,7 +56,7 @@
         }
     },
         {
-        "weight": 10,
+        "weight": 5,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -74,7 +74,7 @@
         }
     },
         {
-        "weight": 10,
+        "weight": 6,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -83,7 +83,7 @@
         }
     },
         {
-        "weight": 10,
+        "weight": 5,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
@@ -92,7 +92,7 @@
         }
     },
         {
-        "weight": 10,
+        "weight": 3,
         "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
