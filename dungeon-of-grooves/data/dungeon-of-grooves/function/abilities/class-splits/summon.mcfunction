@@ -1,2 +1,2 @@
-execute if score @s class matches 1 run function dungeon-of-grooves:abilities/piccolo-swashbuckler/summon
-execute if score @s class matches 3 run function dungeon-of-grooves:abilities/guitar-wizard/summon
+execute if score @s class matches 1 run function dungeon-of-grooves:abilities/piccolo-swashbuckler/summon with storage dog:player stats
+execute if score @s class matches 3 run function dungeon-of-grooves:abilities/guitar-wizard/summon with storage dog:player stats

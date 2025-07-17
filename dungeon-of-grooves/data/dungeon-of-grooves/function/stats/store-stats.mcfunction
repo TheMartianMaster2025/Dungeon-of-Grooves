@@ -1,3 +1,4 @@
+execute store result storage dog:player stats.lvl int 1.0 run scoreboard players get @s level
 execute store result storage dog:player stats.str int 1.0 run scoreboard players get @s stat.str
 execute store result storage dog:player stats.dex int 1.0 run scoreboard players get @s stat.dex
 execute store result storage dog:player stats.con int 1.0 run scoreboard players get @s stat.con

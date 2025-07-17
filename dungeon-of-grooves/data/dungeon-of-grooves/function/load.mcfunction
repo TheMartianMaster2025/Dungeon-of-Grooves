@@ -20,11 +20,12 @@ team add friendly
 team add enemy
 
 ## Triggers
-scoreboard objectives add abTrigger trigger "Ability Trigger"
+scoreboard objectives add abTrigger trigger "Trigger Ability "
 scoreboard objectives add abBuffer dummy "Ability Select Buffer"
-scoreboard objectives add classTrigger trigger "Class Trigger"
+scoreboard objectives add classTrigger trigger "Trigger Class"
 scoreboard objectives add class dummy "Class"
 scoreboard objectives add statTrigger trigger "Trigger Stat"
+scoreboard objectives add levelTrigger trigger "Trigger Level"
 
 ## Stats
 # increases attack damage
@@ -41,6 +42,8 @@ scoreboard objectives add stat.wis dummy "Wisdom"
 scoreboard objectives add stat.cha dummy "Charisma"
 # xp
 scoreboard objectives add xpLevel level "XP Level"
+# stat max
+scoreboard objectives add level dummy "Level"
 
 ## Constants
 scoreboard objectives add cd1 dummy "Constant 1"
