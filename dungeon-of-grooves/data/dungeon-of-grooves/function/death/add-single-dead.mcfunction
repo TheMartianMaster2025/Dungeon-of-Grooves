@@ -1,0 +1,1 @@
+$data modify storage dog:respawn dialog append value {label:"Respawn $(name)",action:{type:"run_command",command:"trigger respawnTrigger set $(id)"}}

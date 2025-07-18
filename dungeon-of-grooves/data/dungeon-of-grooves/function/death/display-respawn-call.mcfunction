@@ -1,0 +1,1 @@
+function dungeon-of-grooves:death/display-respawn with storage dog:respawn

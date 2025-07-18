@@ -9,6 +9,10 @@ execute as @a[scores={abTrigger=-1}] positioned as @s run function dungeon-of-gr
 # stats
 scoreboard players enable @s statTrigger
 execute as @a[scores={statTrigger=1..}] run function dungeon-of-grooves:stats/stat-trigger
+# respawn
+execute as @a[scores={respawnTrigger=1..}] run function dungeon-of-grooves:death/respawn-trigger
+execute as @a[scores={deathTrigger=1..}] run function dungeon-of-grooves:death/death-trigger
+execute as @a[scores={menuTrigger=1..}] run function dungeon-of-grooves:menu
 
 execute as @a if data entity @s SelectedItem.components."minecraft:custom_data".instrument run function dungeon-of-grooves:utility/look-note-display
 

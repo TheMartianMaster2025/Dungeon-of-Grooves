@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:multi_action",
+	"title": {
+		"text": "Main Menu"
+	},
+	"inputs": [],
+	"can_close_with_escape": true,
+	"pause": false,
+	"after_action": "close",
+	"actions": [
+		{
+			"label": "Respawn Menu",
+			"action": {
+				"type": "minecraft:run_command",
+				"command": "trigger menuTrigger set 1"
+			}
+		},
+		{
+			"label": "Stat Menu",
+			"action": {
+				"type": "minecraft:run_command",
+				"command": "trigger menuTrigger set 2"
+			}
+		}
+	]
+}

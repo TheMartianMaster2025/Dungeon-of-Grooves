@@ -3,3 +3,4 @@ execute if score @p cleared matches 1.. unless entity @p[scores={elevator=0}] ru
 execute if score @p cleared matches 1.. unless entity @p[scores={elevator=0}] as @a run function dungeon-of-grooves:stats/display-stats-call
 execute if score @p cleared matches 1.. unless entity @p[scores={elevator=0}] run schedule function dungeon-of-grooves:floor/finish-floor 10s
 scoreboard players set @a elevator 0
+kill @e[type=item]

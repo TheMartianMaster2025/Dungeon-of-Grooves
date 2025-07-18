@@ -26,6 +26,9 @@ scoreboard objectives add classTrigger trigger "Trigger Class"
 scoreboard objectives add class dummy "Class"
 scoreboard objectives add statTrigger trigger "Trigger Stat"
 scoreboard objectives add levelTrigger trigger "Trigger Level"
+scoreboard objectives add deathTrigger deathCount "Death Trigger"
+scoreboard objectives add respawnTrigger trigger "Trigger Respawn"
+scoreboard objectives add menuTrigger trigger "Trigger Menu"
 
 ## Stats
 # increases attack damage

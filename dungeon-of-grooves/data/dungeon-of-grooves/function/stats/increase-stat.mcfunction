@@ -10,6 +10,8 @@ execute if score @s statTrigger matches 7 run scoreboard players add @s level 1
 scoreboard players enable @s statTrigger
 tag @s add stat.menu
 
+function dungeon-of-grooves:stats/set-stats-call
+
 schedule function dungeon-of-grooves:stats/display-stats-corrector 1t
 
 xp add @s -1 levels

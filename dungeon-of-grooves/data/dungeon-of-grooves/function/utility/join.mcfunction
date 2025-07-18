@@ -9,6 +9,7 @@ scoreboard players set @s stat.wis 1
 scoreboard players set @s stat.cha 1
 
 #scoreboard players set @s class 1
+scoreboard players enable @s menuTrigger
 scoreboard players operation @s playerID > @a playerID
 scoreboard players add @s playerID 1
 scoreboard players enable @s classTrigger
