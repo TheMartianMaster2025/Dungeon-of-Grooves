@@ -5,45 +5,54 @@ Three Notes:
 Basic Arpeggio (C-E-G):
     PS: Group Strength
     GW: Zap one guy
+    CC: Group Slow Heal
 
 Teleport Spell (D-G-C):
     PS: Teleport to nearest enemy
     GW: Teleport enemies back 
+    CC: Teleport all allies to you
 
 Four notes:
 
 (F-G-A-D) Fire Spell:
     PS: Sword of Fire
     GW: Fireball
+    CC: Burn nearby enemies
 
 (D-G-B-D) Ritardando
     PS: Speed and Haste
     GW: Slow and damage
+    CC: Slow Heal All
 
 (E-F-G-F) Reveal Spell:
     PS: Reveal loot
     GW: Reveal bosses?
+    CC: Reveal Allies
 
 Five Notes:
 
 (C-B-D-C-G) Summon Familiar:
     PS: Summon a Swordsman Skeleton
     GW: Summon a Creeper (exploding amp)
+    CC: Summon a 
 
 Six Notes:
 (G-G-C-E-F-F) Defensive Lick
     PS: Resistance but Glow
     GW: Resistance but Slow
+    CC: Quick Heal Line
 
 (C-E-E-C-E-E) Oompahpah
     PS: Summon Swarm of Swords
     GW: Arc of Explosions
+    CC:
 
 Seven Notes:
 
 (B-A-F-B-A-F-B) Song of Healing
     PS: Health Boost and Instant Heal
     GW: slow self-regen
+    CC:
 
 Eight Notes:
 
@@ -53,4 +62,4 @@ Eight Notes:
 (G-G-F-G-E-E-C-C) Song of Death:
     PS: Next hit kills
     GW: kill the one mob nearest
-
+    CC:
