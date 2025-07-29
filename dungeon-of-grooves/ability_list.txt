@@ -34,25 +34,25 @@ Five Notes:
 (C-B-D-C-G) Summon Familiar:
     PS: Summon a Swordsman Skeleton
     GW: Summon a Creeper (exploding amp)
-    CC: Summon a 
+    CC: Summon a Shulker
 
 Six Notes:
 (G-G-C-E-F-F) Defensive Lick
     PS: Resistance but Glow
     GW: Resistance but Slow
-    CC: Quick Heal Line
+    CC: Summon a wall of Shulkers
 
 (C-E-E-C-E-E) Oompahpah
     PS: Summon Swarm of Swords
     GW: Arc of Explosions
-    CC:
+    CC: Circle of healing potions
 
 Seven Notes:
 
 (B-A-F-B-A-F-B) Song of Healing
     PS: Health Boost and Instant Heal
     GW: slow self-regen
-    CC:
+    CC: Quick Heal line
 
 Eight Notes:
 
@@ -62,4 +62,4 @@ Eight Notes:
 (G-G-F-G-E-E-C-C) Song of Death:
     PS: Next hit kills
     GW: kill the one mob nearest
-    CC:
+    CC: Soul for a Soul
