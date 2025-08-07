@@ -1,0 +1,41 @@
+{
+    "fallback": "dungeon-of-grooves:yellow/room-end",
+    "elements": [
+    {
+        "weight": 9,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/room1",
+        "processors": []
+        }
+    },
+        {
+        "weight": 9,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/room2",
+        "processors": []
+        }
+    },
+        {
+        "weight": 9,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/room-electric",
+        "processors": []
+        }
+    },
+        {
+        "weight": 9,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/room-pipes",
+        "processors": []
+        }
+    }
+    ]
+}

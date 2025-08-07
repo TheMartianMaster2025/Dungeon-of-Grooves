@@ -1,0 +1,42 @@
+{
+    "fallback": "dungeon-of-grooves:blue/hall-end",
+    "elements": [
+    {
+        "weight": 2,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/hall1",
+        "processors": []
+        }
+    },
+        {
+        "weight": 2,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/hall2",
+        "processors": []
+        }
+    },
+        {
+        "weight": 2,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/hall3",
+        "processors": []
+        }
+    },
+        {
+        "weight": 2,
+        "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "dungeon-of-grooves:blue/hall4",
+        "processors": []
+        }
+    }
+
+    ]
+}
