@@ -7,7 +7,9 @@
     "start_pool": "dungeon-of-grooves:elevator",
     "size": 20,
     "start_height": {
-    "absolute": 100
+    "type": "uniform",
+    "max_inclusive": {"absolute": 100},
+    "min_inclusive": {"absolute": 20}
     },
     "max_distance_from_center": 128,
     "use_expansion_hack": true,
